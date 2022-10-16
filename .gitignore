@@ -1,5 +1,5 @@
-./auto-save-list
-./elpa
-./tutorial
-./url
-.*~
+auto-save-list/
+elpa/
+tutorial/
+url/
+*~
